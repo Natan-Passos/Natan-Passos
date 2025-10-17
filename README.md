@@ -84,6 +84,8 @@ Me chamo Natan de Souza Passos, tenho 26 anos e sou estudante do IFS (INSTITUTO 
                     
 <br/>
 <br/>
+<br/>
+<br/>
 
 ---
 ### 📊 Estatisticas
